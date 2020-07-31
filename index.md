@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to TS Chicken Farm
 
 You can use the [editor on GitHub](https://github.com/KgaboMaraka/tschicken/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
